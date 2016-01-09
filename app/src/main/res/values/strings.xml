@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapCityApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_key">AIzaSyCq9DlyGIpQ_038JpXVzukQ5Aj8Xqla3dk</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_list_locals">ListLocalsActivity</string>
+    <string name="title_activity_local">LocalActivity</string>
+</resources>
